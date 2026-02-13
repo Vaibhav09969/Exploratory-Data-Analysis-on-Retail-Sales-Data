@@ -92,13 +92,38 @@ The dataset is stored in Excel format and used for detailed analysis and visuali
 - Data Cleaning Techniques
 - Descriptive Statistics
 
-(If Python was used, you can add:)
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
 ---
 
-## 📂 Repository Structure
+## 📌 Business Decisions & Strategic Recommendations
 
+Based on the analysis of retail sales data, the following business decisions can be made:
+
+### 1️⃣ Inventory Optimization
+- Increase stock levels for top-performing products.
+- Reduce inventory for consistently low-performing items.
+- Implement demand-based inventory planning during peak seasons.
+
+### 2️⃣ Pricing Strategy Adjustments
+- Apply strategic discounts on slow-moving products.
+- Introduce premium pricing for high-demand categories.
+- Use seasonal pricing models during peak sales periods.
+
+### 3️⃣ Marketing & Promotion Strategy
+- Focus marketing campaigns on high-revenue categories.
+- Launch targeted promotions during low-sales months.
+- Use data-driven campaigns to retain high-value customers.
+
+### 4️⃣ Customer Retention Strategy
+- Introduce loyalty programs for repeat customers.
+- Offer personalized promotions based on purchase history.
+- Identify and re-engage inactive customers.
+
+### 5️⃣ Seasonal Sales Planning
+- Prepare promotional campaigns before peak sales periods.
+- Allocate higher marketing budgets during high-performing months.
+- Plan staffing and logistics based on seasonal demand patterns.
+
+### 6️⃣ Revenue Growth Opportunities
+- Expand product lines in top-performing categories.
+- Explore cross-selling and bundle strategies.
+- Identify potential markets or regions for expansion.
